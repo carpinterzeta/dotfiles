@@ -10,7 +10,7 @@ sudo xbps-install base-devel libX11-devel libXft-devel libXinerama-devel freetyp
 sudo pacman -S base-devel libx11 libxft libxinerama freetype2 fontconfig
 
 - Change kb layout in xorg
-
+´´´
 # /etc/X11/xorg.conf.d/30-keyboard.conf
 
 Section "InputClass"
@@ -18,5 +18,6 @@ Section "InputClass"
     MatchIsKeyboard "on"
     Option "XKbLayout" "es"
 EndSection
+´´´
 
 
