@@ -115,6 +115,9 @@ alias l='lsd --almost-all --long'
 alias llm='lsd --timesort --long'
 alias lS='lsd --oneline --classic'
 alias lt='lsd --tree --depth=2'
+alias cat='bat'
+
+##Scripts
 alias tiempo='curl wttr.in/madrid'
 
 
