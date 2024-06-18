@@ -40,3 +40,6 @@ POWERLEVEL10K ZSH THEME
 
 SPACEVIM
 curl -sLf https://spacevim.org/install.sh | bash
+
+Fprintd for fingerprint login support
+`sudo pacman -S fprintd`
