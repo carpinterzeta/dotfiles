@@ -118,7 +118,6 @@ alias llm='lsd --timesort --long'
 alias lS='lsd --oneline --classic'
 alias lt='lsd --tree --depth=2'
 alias cat='bat'
-alias server='ssh akarp@192.168.1.90 -p69'
 alias actualizar='sudo pacman -Suy'
 
 #
